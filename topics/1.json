@@ -1,11 +1,29 @@
 {
-    "title": "UML Use Case",
+    "title": "Лабораторная работа 1. Разметка личной страницы, разработка UML Use Case",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка диаграммы",
+                    "text": "Постановка задачи: здесь постановка какая-то",
+                    "class": "md-display-2"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание Use Case",
+                    "class": "md-display-1"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "1. Идентификатор прецедента",
                     "class": "md-title"
                 }
             ]
@@ -14,11 +32,8 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью "
-                },
-                {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
+                    "text": "2. Название прецедента",
+                    "class": "md-title"
                 }
             ]
         },
@@ -26,10 +41,84 @@
             "type": "text",
             "data": [
                 {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
+                    "text": "3. Контекст",
+                    "class": "md-title"
                 }
             ]
         },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "4. Участники (actors) и цели (goals)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "5. Предусловия (pre-conditions)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "6. Постусловия (post-conditions)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "7. Основной поток (main flow)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "8. Исключения (exceptions)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Uml Use Case <ТЕМА ДИГРАММЫ>",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Uml Use Case разработки приложения расписания",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Uml Use Case разработки приложения расписания",
+                    "class": "md-title"
+                }
+            ]
+        },
+
         {
             "type": "image",
             "data": "img/use-case-diagram.png"

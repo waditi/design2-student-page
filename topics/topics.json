@@ -1,14 +1,45 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
+        "title": "Лабораторная работа 1",
         "description": "Диаграмма прецедента",
         "preview": "img/use-case-diagram.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
+        "title": "Лабораторная работа 2",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 3,
+        "title": "Лабораторная работа 3",
+        "description": "Диаграмма последовательностей",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 4,
+        "title": "Лабораторная работа 4",
+        "description": "Диаграмма компонентов",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 5,
+        "title": "Лабораторная работа 5",
+        "description": "Алгоритм и описание",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 6,
+        "title": "Лабораторная работа 6",
+        "description": "Разработка на JS",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 7,
+        "title": "Лабораторная работа 7",
+        "description": "UNIT-тестирование",
+        "preview": "img/class-diagram.png"
     }
+
 ]
