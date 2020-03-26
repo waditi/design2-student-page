@@ -1,0 +1,192 @@
+{
+  "title": "Лабораторные работы",
+  "items": [
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "ЛР1: Разметка личной страницы, разработка UML диаграммы прецедентов",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Идентификатор прецедента",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "ВКР"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Название прецедента",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Разработка автоматизировканой системы обмена сообщениями на основе событейно ориентированной модели"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Контекст",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "МГТУ \"СТАНКИН\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Участники и цели",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/lab1-1.jpg"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Предусловия",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "data": [
+        [
+          {
+            "text": "Получено ТЗ на проект"
+          }
+        ],
+        [
+          {
+            "text": "Разработана БД для АС"
+          }
+        ],
+        [
+          {
+            "text": "Освоен ЯП Python"
+          }
+        ],
+        [
+          {
+            "text": "Понимание работы асинхронного кода"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Постусловия",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "data": [
+        [
+          {
+            "text": "Разработана АС"
+          }
+        ],
+        [
+          {
+            "text": "Написана пояснительная записка"
+          }
+        ],
+        [
+          {
+            "text": "Проведено тестирование ПО"
+          }
+        ],
+        [
+          {
+            "text": "Серверное ПО запущено на хостинге"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/lab1-2.jpg"
+    },
+    {
+      "type": "image",
+      "data": "img/lab1-3.jpg"
+    },
+    {
+      "text": "Диаграмма USE Case"
+    },
+    {
+      "type": "image",
+      "data": "img/lab1-use-cases-star-uml.png"
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "ЛР2: Заполнение личной страницы, разработка UML Class",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "data": [
+        {
+          "text": "Диаграмма классов процесса разработки АС",
+          "class": "md-title"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "data": "img/lab2-1.png"
+    },
+    {
+      "type": "link",
+      "data": [
+        {
+          "text": "PlantUML",
+          "link": "https://plantuml.com"
+        }
+      ]
+    }
+  ]
+}
